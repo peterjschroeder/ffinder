@@ -1,0 +1,22 @@
+Use cacalib when X isn't available
+Search ebay
+Search
+Add Camera Lookup
+
+Issues
+================
+Image doesn't center
+DropDowns don't start at current selection
+
+Colors
+================
+WPopupList
+Regular Text (d.add)
+WTextEntry
+WTextEntry Cursor
+WComboBox
+WDropDown
+WCompletionList
+WAutoComplete
+
+
