@@ -1,5 +1,5 @@
 # figurefinder
-Android Action Figure database application.
+Action Figure database application.
 
 GPL 2.0
 
